@@ -35,3 +35,13 @@ REQUIREMENTS
 
 ●	Provide options to create, view, and delete events.
 
+EVALUATION CRITERIA:
+●	CODE QUALITY: Readability, use of functions/classes, and adherence to Pythonic principles.
+
+●	FUNCTIONALITY: All features work as described.
+
+●	ERRO Hndling: Gracefully handles invalid inputs and errors.
+
+●	EFFICIENCY: Uses efficient algorithms and data structures where applicable.
+
+
