@@ -1,6 +1,6 @@
-EVENT SCHEDULER APPLICATION
+## EVENT SCHEDULER APPLICATION
 
-DESCRIPTION
+### DESCRIPTION
 
 ●The application should allow users to create, view, and delete events.
 
@@ -8,7 +8,7 @@ DESCRIPTION
 
 ●Users should be able to list all events and delete specific events by title.
 
-REQUIREMENTS
+### REQUIREMENTS
 
 	DATA STORAGE:
 ●	Store events in a simple in-memory structure (e.g., a list or dictionary).
@@ -35,7 +35,7 @@ REQUIREMENTS
 
 ●	Provide options to create, view, and delete events.
 
-EVALUATION CRITERIA:
+### EVALUATION CRITERIA:
 
 ●	CODE QUALITY: Readability, use of functions/classes, and adherence to Pythonic principles.
 
